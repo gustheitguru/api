@@ -1,0 +1,9 @@
+stripe_test_secret_api = sk_test_Y3ooLmB75UVwxE5WCIlJ7iHf
+stripe_test_publish_api = pk_test_UGh3yxtQY9mGrm3FLuAWtdAs
+
+strip_pro_secret_api = sk_live_03DRQsy6lDKtuZyyhJMqx9A8
+strip_pro_publish_api = pk_live_GHodk8iprlWJMaeJn5YYQpMQ
+
+locu_api_key = c98c4429c7dfef30a0d4f7d0bd51c9628b8f6646
+
+food2fork = = 736e3acd4a98dbe7fec05d8a244fbc0a
